@@ -162,3 +162,16 @@ i {
 .fa-js {
     color: #f3df50;
 }
+
+/* about */
+#about {
+    background-color: #2d2b3e;
+    padding: 20px;
+    color: #fff;
+}
+
+#about .container {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    column-gap: 50px;
+}
